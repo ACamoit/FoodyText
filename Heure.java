@@ -1,4 +1,4 @@
-public class Heure{ test
+public class Heure{ test2
 	private int heures;
 	private int minutes;
 	
